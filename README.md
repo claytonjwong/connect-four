@@ -9,3 +9,6 @@ Connect four of your checkers in a row while preventing your opponent from doing
 If the total gains are added and the total losses subtracted, their sum is zero.
 * **Perfect Information:** Players have all the information about moves which have taken place and all moves which can take place,
 for a given game state.
+
+## Resources
+* [A Knowledge-based Approach of Connect-Four](Masterthesis-Viergewinnt.pdf)
